@@ -138,7 +138,7 @@
 
 # 
 
-# 👉 Coming soon (after deployment)
+# 👉 https://equity-performance-monitor.streamlit.app/
 
 # 
 
